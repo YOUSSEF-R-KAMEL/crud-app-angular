@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "firstName": "Youssef",
+      "lastName": "Raafat",
+      "email": "youssefrafat70@gmail.com",
+      "dateOfB": "2023-09-13T21:00:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "google",
+      "experience": 3,
+      "package": 4,
+      "id": 1
+    },
+    {
+      "firstName": "Ehab",
+      "lastName": "Raafat",
+      "email": "Ehab@gmail.com",
+      "dateOfB": "2023-09-02T21:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "google",
+      "experience": 4,
+      "package": 15,
+      "id": 2
+    },
+    {
+      "firstName": "samuel",
+      "lastName": "ezzat",
+      "email": "samuelezzat@gmail.com",
+      "dateOfB": "2024-09-02T21:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "google",
+      "experience": 4,
+      "package": 3,
+      "id": 3
+    }
+  ]
+}
